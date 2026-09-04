@@ -7,5 +7,8 @@ The function "add(a, b)", has two numbers and returns the solution of a + b. So 
 
 function "sum_list" gets a list of numbers and returns their sum through calling the "add" function previously created
 
+Function square(x) is calling function "multiply". When you print function square(3) for example, the function will do multiply(3, 3), and you will get 9 as a result. 
+
+
 
 
