@@ -1,0 +1,1 @@
+function 'multiply' multiplies two numbers with each other, and returns the multiplication. You fill in two numbers for a and b, and the function returns the multiplications for a and b. To test it, you can choose numbers for a and b, and print the result.
