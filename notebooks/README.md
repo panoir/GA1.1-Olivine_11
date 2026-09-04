@@ -1,0 +1,1 @@
+The function "subtract" gets two numbers a and b and returns their difference a-b
