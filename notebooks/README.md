@@ -5,7 +5,10 @@ The function "subtract" gets two numbers a and b and returns their difference a-
 
 The function "add(a, b)", has two numbers and returns the solution of a + b. So for example, you put add(5, 3), you will get 8 as a result.  
 
+function "sum_list" gets a list of numbers and returns their sum through calling the "add" function previously created
+
 Function square(x) is calling function "multiply". When you print function square(3) for example, the function will do multiply(3, 3), and you will get 9 as a result. 
+
 
 
 
